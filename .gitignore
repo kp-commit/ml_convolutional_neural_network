@@ -1,0 +1,3 @@
+*.DS_Store
+./DriverDrowsiness/data/original_dataset/*
+DriverDrowsiness/data/original_dataset/
