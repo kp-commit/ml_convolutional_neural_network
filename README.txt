@@ -3,8 +3,7 @@ Driver Drowsiness
 Folder structure:
 
 ├── README.md                       						<- The README describing the folder
-├── DriverDrowsiness                						<- Folder containing all files for modelling, data
-├── Presentation.pdf         								<- Presentation pdf copy
+├── DriverDrowsiness                						<- Folder containing all files for modelling, data:
 ├── DriverDrowsiness\207_Driver_Drowsiness_CNN.ipynb 		<- The main notebook file for Driver Drowsines
 ├── DriverDrowsiness\data 									<- Data files
 ├── DriverDrowsiness\data\original 						<- Original dataset files from Kaggle source
