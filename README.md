@@ -1,5 +1,3 @@
-# Convolutional Neural Network for Driver Drowsiness Detection
-
 ![Banner](DriverDrowsiness/images/banner.png)
 
 ## Motivation
